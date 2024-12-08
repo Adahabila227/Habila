@@ -1,0 +1,67 @@
+---
+toc: true
+toc-depth: 2
+---
+
+## Projet de recherches
+
+#### Parcours de vie et obésité: le rôle du milieu de vie au Québec
+Dans le cadre de nos recherches au doctorat, sous la direction de: Alexandre Lebel, Ph.D Université Laval et de Marie-Claude Paquette, Ph.D Institut national de santé publique du Québec.
+
+* Estimer l'influence du contexte socioéconomique et bâti du milieu de vie sur le long terme sur l'obésité. Pour se faire à partir de la cohorte populationnelle CARTaGENE, nous créons des indicateurs d'exposition longitudinale des personnes à la défavorisation sociale, matérielle et d'accès aux commerces d'alimentation au Québec entre 2009 et 2018. Puis nous créons les indicateurs du statut pondéral des personnes. Enfin, nous analysons les associations entre les indicateurs d'exposition longitudinale du contexte socioéconomique et bâti et le statut pondéral.
+
+* Nous utilisons les 43 000 participants de la cohorte CARTaGENE (2009 - présent)
+
+* Période du projet: Septembre 2021 - présent
+
+#### Évaluation des impacts économiques des changements climatiques sur le transport au Québec
+
+Dans le cadre de mon travail d'assistant de recherche, sous la supervision de: Moktar Lamari, Ph.D ÉNAP
+* Estimer et simuler les coûts économiques des changements climatiques sur le transport au Québec. A partir des statistiques économiques du Québec et les prévisions climatiques estimer les coûts économiques passés des CC et simuler les coûts économiques futurs à l'horizon 2100 au Québec.
+
+* Données Stacan, ISQ, Ouranos
+
+* Période du projet: Mai 2024 - Décembre 2024
+
+#### Fécondité et ses déterminants socioéconomiques et culturels au Niger
+
+Dans le cadre d'un projet d'études de cas portant sur l'Afrique, en collaboration avec Idiatou Bah, Ph.D Université
+
+* Contextualiser la fécondité au Niger, à décrire son ampleur, à exposer ses conséquences socio-économiques et à apporter une explication de ses causes démographiques, socioculturelles et socio-économiques profondes.
+
+* Données Institut national de la statistique du Niger, Banque mondiale et Our World In Data
+
+* Période du projet: janvier 2024 - Juin 2025
+
+#### Analyse longitudinale des liens entre l'environnement alimentaire et l'obésité au Québec
+
+Dans le cadre de mon stage à l'institut national de santé publique, sous la supervision de: Éric Robitaille, Ph.D Institut national de santé publique et de Marie-Claude Paquette, Ph.D Institut national de santé publique du Québec.
+
+* Explorer les liens entre les contexte socioéconomiques et alimentaires auxquels les personnes exposées sur le long terme et l’obésité à partir de la cohorte CARTaGENE. 
+Les deux premiers objectifs spécifiques ont été réalisés grâce à un financement du réseau de recherche en santé des populations du Québec. 1) explorer la littérature des études longitudinales sur l’environnement alimentaire; 2) créer les trajectoires de l’environnement alimentaire. Ces deux premiers objectifs ont contribué à la soumission d’un protocole d’une revue de la portée à la revue BioMedical Journal et d’un article à la revue Public Health Nutrition. Les derniers objectifs spécifiques sont 3) la construction d’indicateurs longitudinaux pour l’étude de l’obésité; 4) estimation de l’influence des indicateurs longitudinaux sur l’obésité.
+
+* Nous utilisons les 43 000 participants de la cohorte CARTaGENE (2009 - présent)
+
+* Période du projet: mai 2022 - Mai 2024
+
+## Financement de la Recherche
+* 2024 : Réseau de Recherche en Santé des Populations du Québec, axe politiques publiques et santé des populations, Montant total - 4 000 (Dollar canadien) : Bourse d'excellence au doctorat
+
+* 2024 : Réseau de Recherche en Santé des Populations du Québec, axe politiques publiques et santé des populations, Montant total - 8 000 (Dollar canadien) : Bourse de stage sur les politiques publiques et la santé des populations sous la supervision de : Éric Robitaille à l’Institut National de Santé Publique du Québec
+
+* 2023-2024 : Fonds de Recherche du Québec - Société et culture (FRQSC) : Équipe Accès à la cité, FRQ-SC, montant total - 25 000 (Dollar canadien)
+
+* 2022-2023 : Fonds de Recherche du Québec - Société et culture (FRQSC) : Équipe Accès à la cité, FRQ-SC, montant total - 20 000 (Dollar canadien)
+
+* 2021-2022 : Fonds de Recherche du Québec - Santé (FRQS) : Bourse de recrutement faculaire (FAAAD, Université Laval) 1er sur 5 candidats, Montant total - 30 000 (Dollar canadien)
+
+* 2022 : Institut National de Santé Publique du Québec et le Réseau de Recherche en Santé des  Populations du Québec, Montant total - 8 000 (Dollar canadien) : Bourse de stage pour analyser les liens entre l'obésité et l'environnement alimentaire sous la supervision de : Éric Robitaille; Marie-Claude Paquette à l’Institut National de Santé Publique du Québec 
+
+* 2018-2020 : Banque mondiale et Institut national de la statistique du Niger: Projet données de qualité pour la prise de décision, 2ème sur 100 candidats, Montant total - 34 583 (Dollar américain)
+
+* 2014-2017 : Agence nationale des allocations et des bourses : Bourse nationale, montant total - 3 000 (Dollar canadien)
+
+
+
+
+

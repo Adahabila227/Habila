@@ -1,0 +1,97 @@
+---
+toc: true
+toc-depth: 2
+---
+Dans cette section je partagerai avec vous les bases de données traitant de divers sujets, à différentes échelles géographiques et une multitude d'indicateurs (macro, méso et micro). La liste n'est certainement pas exhaustive.
+
+
+
+Our data In world
+
+DHS
+
+MICS
+
+World database
+
+World Inequality database
+
+Countdown to 2030
+
+International Center for Equity In Health
+
+ARXIS Cornell University
+
+Data Portal UN
+
+Britannica
+
+Population Pyramid
+
+Worldometer
+
+Eurostat
+
+Risk Factor Collaboration
+
+Health Data IHME
+
+Global Nutrition Report
+
+
+
+
+### Articles dans des revues avec comité de lecture
+- **Demographic Human Survey (DHS)**  
+  **Objectif**: A partir des caractéristiques de l'environnement alimentaire, créer et analyser les trajectoires de l'environnement alimentaire des participants de la cohorte CARTaGENE. <br>
+  **Source de données**: Données de la cohorte [CARTaGENE](https://cartagene.qc.ca/index.html){target="_blank" rel="noopener noreferrer"} <br>
+  **Revue**: Public Health Nutrition <br>
+  **Auteurs**: Habila Adamou, Marie-Claude Paquette,Éric Robitaille et Alexandre Lebel <br>
+  [DOI](https://doi.org/10.1017/S1368980024000119){target="_blank" rel="noopener noreferrer"} <br>
+  
+- **Life-course socioeconomic status and obesity: a scoping review protocol (2023)**  
+  **Objectif**: Fixer et rendre reproductible notre revue de la portée des connaissances portant sur les liens entre le statut socioéconomique tout au long de la vie et l'obésité. Avec un focus sur les méthodologies utilisées dans ces études. <br>
+  **Revue**: BMJ Open <br>
+  **Auteurs**: Habila Adamou, Dener François, Alexandre Lebel et Marie-Claude Paquette <br>
+  [DOI](https://doi.org/10.1136/bmjopen-2023-077750){target="_blank" rel="noopener noreferrer"} <br>
+  
+- **Socioeconomic inequalities in underweight children: a cross-sectional analysis of trends in West Africa over two decades (2023)**  
+  **Objectif**: A partir de l'indice de concentration des inégalités, analyser les tendances des inégalités socioéconomiques de l'insuffisance pondérale en Afrique de l'Ouest sur 20 ans. <br>
+  **Source de données**: Données des enquêtes démographiques et de santé [(EDS)](https://dhsprogram.com/){target="_blank" rel="noopener noreferrer"}, des enquêtes à indicateurs multiples (MICS) de 12 pays d'Afrique de l'Ouest de DHS et de l'UNICEF [(MICS)](https://mics.unicef.org/){target="_blank" rel="noopener noreferrer"} <br>
+  **Revue**: BMJ Open <br>
+  **Auteurs**: Habila Adamou, Grégoire Naba et Hamidou Koné <br>
+  [DOI](https://doi.org/10.1136/bmjopen-2023-074522){target="_blank" rel="noopener noreferrer"} <br>
+  
+- **Tendances des inégalités socioéconomiques et spatiales de la santé des enfants de moins de 5 ans au Niger (2022)**  
+  **Objectif**:  Analyser l’impact des disparités géographiques et socioéconomiques des parents sur la santé des enfants au Niger entre 2006 et 2012. <br> 
+  **Source de données**: Données des enquêtes démographiques et de santé [(EDS)](https://dhsprogram.com/){target="_blank" rel="noopener noreferrer"} <br>
+  **Revue**: BMJ Open <br>
+  **Auteurs**: Habila Adamou, Grégoire Naba et Hamidou Koné <br>
+  [DOI](https://doi.org/10.1136/bmjopen-2023-074522){target="_blank" rel="noopener noreferrer"} <br>
+
+### Mémoires, thèses et rapports
+- **Statut socioéconomique de la mère et inégalités devant la santé des enfants de moins de cinq (5) ans au Niger (2020)** <br>
+  **Objectif**: Analyser l'influence du statut socioéconomique de la mère sur les inégalités sociales de santé des enfants au Niger. <br>
+  **Travail**: Mémoire de fin d'études <br>
+  **Institution**: Institut de Formation et de Recherche démographiques (IFORD), Université Yaoundé 2 <br>
+  **Auteurs**: Habila Adamou, Hamidou Koné (lecteur) et Schouamé Alexandre Magloire (directeur) <br>
+  
+- **Droits des enfants en milieu urbain africain: cas de la ville de Bafia au Cameroun (2020)**  
+  **Objectif**: Concevoir, organiser et collecter les domnées. Puis, traiter et analyser les données de l'enquête portant sur les droits des enfants en milieu urbain africain. <br>
+  **Travail**: Rapport d'analyse de l'enquête étudiant de la 40ième promotion <br>
+  **Institution**: Institut de Formation et de Recherche démographiques (IFORD), Université Yaoundé 2 <br>
+  **Auteurs**: Habila Adamou et Tous les étudiants de la 40ième promotion de l'institut de formation et de recherche démographiques <br>
+
+### Présentation scientifique
+- **Statut socioéconomique de la mère et inégalités devant la santé des enfants de moins de cinq (5) ans au Niger (2020)**
+ **Objectif**: Analyser l'influence du statut socioéconomique de la mère sur les inégalités sociales de santé des enfants au Niger. <br>
+  **Travail**: Mémoire de fin d'études <br>
+  **Institution**: Institut de Formation et de Recherche démographiques (IFORD), Université Yaoundé 2
+  **Auteurs**: Habila Adamou, Hamidou Koné (lecteur) et Schouamé Alexandre Magloire (directeur) <br>
+  
+- **Droits des enfants en milieu urbain africain: cas de la ville de Bafia au Cameroun (2020)**  
+  **Objectif**: Concevoir, organiser et collecter les domnées. Puis, traiter et analyser les données de l'enquête portant sur les droits des enfants en milieu urbain africain. <br>
+  **Travail**: Rapport d'analyse de l'enquête étudiant de la 40ième promotion <br>
+  **Institution**: Institut de Formation et de Recherche démographiques (IFORD), Université Yaoundé 2
+  **Revue**: BMJ Open <br>
+  **Auteurs**: Habila Adamou et Tous les étudiants de la 40ième promotion de l'institut de formation et de recherche démographiques <br>
