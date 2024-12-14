@@ -1,7 +1,9 @@
+title: "Habila Adamou"
 project:
   type: website
-  output-dir: _site
 publish:
+  output-dir: docs
+  site-url: https://adahabila227.github.io/Habila
   method: gh-pages
 website:
   navbar:
@@ -31,7 +33,10 @@ website:
             href: https://www.linkedin.com/in/habila-adamou-2a5156226/
           - text: "HAL"
             href: https://hal.science/user/index/
+    toc: true
+    toc-location: left
 format:
   html:
-    toc: false 
-    
+    css: styles.css
+
+
